@@ -15,7 +15,7 @@ _I want to be a frontend developer_
 ## Code Example
 `alert("My name is Andrey");`
 ## Experience
-still learning
+_still learning_
 ## Education
 * **University:** Brest State Technical University
 * **Courses:** IT-Academy
