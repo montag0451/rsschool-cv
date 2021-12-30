@@ -1,1 +1,1 @@
-# rsschool-cv
+https://montag0451.github.io/rsschool-cv/cv
