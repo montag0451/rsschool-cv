@@ -1,4 +1,3 @@
-[rsschool-cv](https://github.com/montag0451/rsschool-cv)
 # Andrei Marhol
 ## Contacts
 * **Location:** Brest, Belarus
